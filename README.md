@@ -1,1 +1,1 @@
-Currently, railway barricades are operated manually. It can be operated automatically using IoT.
+Currently, railway barricades are operated manually. We implemented to operate it automatically using IoT.
